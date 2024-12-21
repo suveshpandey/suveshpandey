@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jpsuvesh29@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/suveshpandey/Suvesh_Pandey_Resume](https://github.com/suveshpandey/Suvesh_Pandey_Resume)
+- 📄 My Resume [https://github.com/suveshpandey/Suvesh_Pandey_Resume](https://github.com/suveshpandey/Suvesh_Pandey_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
