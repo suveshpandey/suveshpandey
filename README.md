@@ -1,93 +1,99 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9B87F5&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+I'm+Suvesh+👋;Full+Stack+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+
+# 👋 Hey, I'm Suvesh Pandey
+
+### Full Stack Developer | Cloud & DevOps Enthusiast | Backend Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Learning+Cloud+%26+DevOps;Backend+Development+in+Golang;Open+to+Opportunities" alt="Typing SVG" />
+
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web_Development-9B87F5?style=for-the-badge" alt="Web Development Focus" />
-  <img src="https://img.shields.io/badge/Status-Seeking_Internship-6E59A5?style=for-the-badge" alt="Internship Status" />
-</div>
+---
 
-<h2 align="center">💫 About Me</h2>
+## 🚀 About Me
 
 ```typescript
 const suvesh = {
-  location: "India",
-  focus: "Full Stack Web Development",
-  learning: "Expanding my skills every day",
-  goal: "Seeking internship opportunities in web development",
-  hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
-}
+    education: "B.Tech in IT (3rd Year)",
+    currentFocus: ["Cloud Computing", "DevOps", "Backend with Golang"],
+    lookingFor: "Internships & Remote Roles",
+    techStack: {
+        frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Golang"],
+        databases: ["MongoDB", "PostgreSQL", "SQL"],
+        languages: ["C", "C++", "JavaScript", "TypeScript", "Go"],
+        tools: ["Docker", "AWS", "Git", "GitHub"],
+        fundamentals: "Data Structures & Algorithms"
+    }
+};
 ```
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  
-</div>
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-</div>
-<div align="center">
-  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvesh-pandey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvesh-pandey&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvesh-pandey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=suveshpandey&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-<h2 align="center">🌐 Connect With Me</h2>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/suvesh-pandey/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://suvesh-pandey.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-9B87F5?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://x.com/suvesh_298" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:jpsuvesh29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://suveshpandey.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvesh-pandey/)
+[![Twitter](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suvesh_298)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1IiLV67EaXFtDsytrny4WiYvYz5WUXCJc/view?usp=drive_link)
+
 </div>
 
-<div align="center">
-  <h3>📝 <a href="file:///C:/Users/jpsuv/OneDrive/Documents/SuveshPandeyResume.pdf" target="_blank">View My Resume</a></h3>
-</div>
+---
+
+## 💼 Open to Opportunities
+
+```bash
+$ echo "Looking for internships and remote roles"
+> Interested in: Full Stack Development | Backend Engineering | Cloud & DevOps
+> Available: Immediately
+> Location: Remote-friendly
+```
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suvesh-pandey&label=Profile%20Views&color=9b87f5&style=flat" alt="Profile Views" />
-</div>
 
-<div align="center">
-  
-  > "The only way to do great work is to love what you do." - Steve Jobs
-  
-</div>
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B87F5&height=120&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=suveshpandey&color=00F7F7&style=for-the-badge)
+
 </div>
